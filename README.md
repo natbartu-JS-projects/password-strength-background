@@ -7,4 +7,10 @@ The application landed on the password form, displaying a blurred image backgrou
 
 The framework used on this application is [Tailwind](https://cdnjs.com/libraries/tailwindcss).
 
+## Used Image
+
+The image used on this application is from [Unsplash](https://unsplash.com).
+
 ## Application Preview
+
+![gif preview](assets/Image-Password-Strength.gif)
